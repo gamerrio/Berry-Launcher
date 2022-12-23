@@ -16,10 +16,12 @@
 ## **To Run Source Code:**
 > Be sure pip is installed at path (specially if you are on windows)
 <br>
+
 ```
 pip3 install -r requirements.txt
 python main.py 
 ```
+
 ------
 <br>
 
