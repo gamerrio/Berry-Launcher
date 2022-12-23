@@ -21,9 +21,7 @@
 pip3 install -r requirements.txt
 python main.py 
 ```
-
 ------
-<br>
 
 ## **Installation:**
 > *Soon binaries for every platform will be provided*
